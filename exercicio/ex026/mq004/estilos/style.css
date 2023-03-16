@@ -44,21 +44,12 @@ img{
 }
 
 img#phone{
-    display: block;
-}
-
+    display: n;}
 img#tablet{
-    display: none;
-}
-
+    display: none;}
 img#print{
-    display: none;
-}
-
+    display: none;}
 img#pc{
-    display: none;
-}
-
+    display: none;}
 img#tv{
-    display: none;
-}
+    display: none;}
